@@ -1,0 +1,65 @@
+# Obsidian generated files
+.obsidian/workspace
+.obsidian/plugins/**/manifest.json
+.obsidian/plugins/**/main.js
+.obsidian/plugins/**/styles.css
+.obsidian/themes/**/manifest.json
+.obsidian/themes/**/theme.css
+
+# Obsidian user data
+.obsidian/cache
+.obsidian/thumbnails
+.obsidian/trash
+
+# Trae generated files
+.trae/
+.trae_cache/
+.trae_logs/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Temporary files
+*.tmp
+*.temp
+*.swp
+*.swo
+*~
+
+# Log files
+*.log
+*.log.*
+logs/
+
+# Configuration files (if any)
+config.ini
+*.env
+.env.local
+.env.*.local
+
+# Backup files
+*.bak
+*.backup
+*-backup.md
+
+# Build files (if any)
+build/
+dist/
+
+# IDE generated files
+.idea/
+.vscode/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Package manager files (if any)
+node_modules/
+pip-wheel-metadata/
+*.egg-info/
+__pycache__/
+*.pyc
