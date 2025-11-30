@@ -44,6 +44,12 @@ config.ini
 *.backup
 *-backup.md
 
+# Legacy files
+legacy/
+
+# Trae AI files
+.trae/
+
 # Build files (if any)
 build/
 dist/
